@@ -1,0 +1,1 @@
+singleton summary : enum, DDL, holder
